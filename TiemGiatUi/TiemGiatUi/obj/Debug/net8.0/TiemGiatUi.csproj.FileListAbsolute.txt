@@ -27,3 +27,4 @@ H:\TiemGiatUi\TiemGiatUi\TiemGiatUi\TiemGiatUi\obj\Debug\net8.0\refint\TiemGiatU
 H:\TiemGiatUi\TiemGiatUi\TiemGiatUi\TiemGiatUi\obj\Debug\net8.0\TiemGiatUi.pdb
 H:\TiemGiatUi\TiemGiatUi\TiemGiatUi\TiemGiatUi\obj\Debug\net8.0\TiemGiatUi.genruntimeconfig.cache
 H:\TiemGiatUi\TiemGiatUi\TiemGiatUi\TiemGiatUi\obj\Debug\net8.0\ref\TiemGiatUi.dll
+H:\TiemGiatUi\TiemGiatUi\TiemGiatUi\TiemGiatUi\obj\Debug\net8.0\TiemGiatUi.sourcelink.json

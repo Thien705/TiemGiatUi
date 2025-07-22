@@ -21,6 +21,94 @@
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
+      "Id": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\wwwroot\\images\\app-icon-1.png",
+      "PackagePath": "staticwebassets\\images\\app-icon-1.png"
+    },
+    {
+      "Id": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\wwwroot\\images\\app-icon.png",
+      "PackagePath": "staticwebassets\\images\\app-icon.png"
+    },
+    {
+      "Id": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\wwwroot\\images\\custom-checkbox-checkmark.589d534424.svg",
+      "PackagePath": "staticwebassets\\images\\custom-checkbox-checkmark.589d534424.svg"
+    },
+    {
+      "Id": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\wwwroot\\images\\design-20resources-20home.svg",
+      "PackagePath": "staticwebassets\\images\\design-20resources-20home.svg"
+    },
+    {
+      "Id": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\wwwroot\\images\\ebook-20cover-201.svg",
+      "PackagePath": "staticwebassets\\images\\ebook-20cover-201.svg"
+    },
+    {
+      "Id": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\wwwroot\\images\\ebook-20cover-202.svg",
+      "PackagePath": "staticwebassets\\images\\ebook-20cover-202.svg"
+    },
+    {
+      "Id": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\wwwroot\\images\\ebook-20cover-203.svg",
+      "PackagePath": "staticwebassets\\images\\ebook-20cover-203.svg"
+    },
+    {
+      "Id": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\wwwroot\\images\\ebook-20cover-204.svg",
+      "PackagePath": "staticwebassets\\images\\ebook-20cover-204.svg"
+    },
+    {
+      "Id": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\wwwroot\\images\\ebook-20cover-205.svg",
+      "PackagePath": "staticwebassets\\images\\ebook-20cover-205.svg"
+    },
+    {
+      "Id": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\wwwroot\\images\\email-20sent-20icon.svg",
+      "PackagePath": "staticwebassets\\images\\email-20sent-20icon.svg"
+    },
+    {
+      "Id": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\wwwroot\\images\\favicon-1.png",
+      "PackagePath": "staticwebassets\\images\\favicon-1.png"
+    },
+    {
+      "Id": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\wwwroot\\images\\image-placeholder.svg",
+      "PackagePath": "staticwebassets\\images\\image-placeholder.svg"
+    },
+    {
+      "Id": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\wwwroot\\images\\magnifyingglass-20grey.svg",
+      "PackagePath": "staticwebassets\\images\\magnifyingglass-20grey.svg"
+    },
+    {
+      "Id": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\wwwroot\\images\\memberbase-20logo-1-1.svg",
+      "PackagePath": "staticwebassets\\images\\memberbase-20logo-1-1.svg"
+    },
+    {
+      "Id": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\wwwroot\\images\\memberbase-20logo-1.svg",
+      "PackagePath": "staticwebassets\\images\\memberbase-20logo-1.svg"
+    },
+    {
+      "Id": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\wwwroot\\images\\memberbase-20white-20logo.svg",
+      "PackagePath": "staticwebassets\\images\\memberbase-20white-20logo.svg"
+    },
+    {
+      "Id": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\wwwroot\\images\\membercase-20image.svg",
+      "PackagePath": "staticwebassets\\images\\membercase-20image.svg"
+    },
+    {
+      "Id": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\wwwroot\\images\\menu-20icon-1.svg",
+      "PackagePath": "staticwebassets\\images\\menu-20icon-1.svg"
+    },
+    {
+      "Id": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\wwwroot\\images\\menu-20icon.svg",
+      "PackagePath": "staticwebassets\\images\\menu-20icon.svg"
+    },
+    {
+      "Id": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\wwwroot\\images\\tick-20circle-20icon.svg",
+      "PackagePath": "staticwebassets\\images\\tick-20circle-20icon.svg"
+    },
+    {
+      "Id": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\wwwroot\\images\\webflow-badge-icon.f67cd735e3.svg",
+      "PackagePath": "staticwebassets\\images\\webflow-badge-icon.f67cd735e3.svg"
+    },
+    {
       "Id": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\wwwroot\\js\\jquery.js",
       "PackagePath": "staticwebassets\\js\\jquery.js"
     },
