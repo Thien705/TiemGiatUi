@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|h:\\tiemgiatui\\tiemgiatui\\tiemgiatui\\tiemgiatui\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|solutionrelative:tiemgiatui\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|h:\\tiemgiatui\\tiemgiatui\\tiemgiatui\\tiemgiatui\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|solutionrelative:tiemgiatui\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|h:\\tiemgiatui\\tiemgiatui\\tiemgiatui\\tiemgiatui\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|solutionrelative:tiemgiatui\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|h:\\tiemgiatui\\tiemgiatui\\tiemgiatui\\tiemgiatui\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|solutionrelative:tiemgiatui\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|h:\\tiemgiatui\\tiemgiatui\\tiemgiatui\\tiemgiatui\\wwwroot\\js\\webflow-script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|solutionrelative:tiemgiatui\\wwwroot\\js\\webflow-script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|h:\\tiemgiatui\\tiemgiatui\\tiemgiatui\\tiemgiatui\\wwwroot\\js\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|solutionrelative:tiemgiatui\\wwwroot\\js\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "TiemGiatUi\\Components\\Routes.razor",
+              "ToolTip": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\Components\\Routes.razor",
+              "RelativeToolTip": "TiemGiatUi\\Components\\Routes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-22T07:05:22.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.razor",
+              "DocumentMoniker": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\Components\\App.razor",
+              "RelativeDocumentMoniker": "TiemGiatUi\\Components\\App.razor",
+              "ToolTip": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\Components\\App.razor",
+              "RelativeToolTip": "TiemGiatUi\\Components\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-22T07:05:11.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.razor",
+              "DocumentMoniker": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "TiemGiatUi\\Components\\Pages\\Home.razor",
+              "ToolTip": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "TiemGiatUi\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAABAAAAAAAAAAAUwBABAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-22T07:05:00.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.css",
+              "DocumentMoniker": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\wwwroot\\app.css",
+              "RelativeDocumentMoniker": "TiemGiatUi\\wwwroot\\app.css",
+              "ToolTip": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\wwwroot\\app.css",
+              "RelativeToolTip": "TiemGiatUi\\wwwroot\\app.css",
+              "ViewState": "AQIAAJ8XAAAAAAAAAAAgwKcXAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-22T07:04:40.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "webflow-script.js",
+              "DocumentMoniker": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\wwwroot\\js\\webflow-script.js",
+              "RelativeDocumentMoniker": "TiemGiatUi\\wwwroot\\js\\webflow-script.js",
+              "ToolTip": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\wwwroot\\js\\webflow-script.js",
+              "RelativeToolTip": "TiemGiatUi\\wwwroot\\js\\webflow-script.js",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABIAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-22T07:04:10.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "jquery.js",
+              "DocumentMoniker": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\wwwroot\\js\\jquery.js",
+              "RelativeDocumentMoniker": "TiemGiatUi\\wwwroot\\js\\jquery.js",
+              "ToolTip": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\wwwroot\\js\\jquery.js",
+              "RelativeToolTip": "TiemGiatUi\\wwwroot\\js\\jquery.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-22T07:04:08.325Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TiemGiatUi.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TiemGiatUi.bundle.scp.css"
+    },
+    {
+      "Id": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\wwwroot\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\jquery.js"
+    },
+    {
+      "Id": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\wwwroot\\js\\webflow-script.js",
+      "PackagePath": "staticwebassets\\js\\webflow-script.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TiemGiatUi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TiemGiatUi.props",
+      "PackagePath": "build\\TiemGiatUi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TiemGiatUi.props",
+      "PackagePath": "buildMultiTargeting\\TiemGiatUi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TiemGiatUi.props",
+      "PackagePath": "buildTransitive\\TiemGiatUi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
