@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TiemGiatUi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a10bf97b15a4ab7c370426ef71172ef75c2fee1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49a6c2ad244cdecb7eff0d6c6c9056040b45061a")]
 [assembly: System.Reflection.AssemblyProductAttribute("TiemGiatUi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TiemGiatUi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

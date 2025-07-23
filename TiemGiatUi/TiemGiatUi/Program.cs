@@ -10,6 +10,7 @@ namespace TiemGiatUi
 
             // Add services to the container.
             builder.Services.AddRazorComponents();
+                  
 
             var app = builder.Build();
 

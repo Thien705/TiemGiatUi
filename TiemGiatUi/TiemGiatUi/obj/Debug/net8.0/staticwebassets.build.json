@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "VXJAvOEA9BDxGQDpH3/KvTHJS1NI4cOTrmWqyT2obsE=",
+  "Hash": "vgzfp7xJSfvM0bwNpGPwpFKRYEzpof/DDcbpg1Kqis4=",
   "Source": "TiemGiatUi",
   "BasePath": "_content/TiemGiatUi",
   "Mode": "Default",
@@ -359,6 +359,25 @@
       "OriginalItemSpec": "wwwroot\\images\\favicon-1.png"
     },
     {
+      "Identity": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\wwwroot\\images\\Giatkho.jpg",
+      "SourceId": "TiemGiatUi",
+      "SourceType": "Discovered",
+      "ContentRoot": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\wwwroot\\",
+      "BasePath": "_content/TiemGiatUi",
+      "RelativePath": "images/Giatkho.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Giatkho.jpg"
+    },
+    {
       "Identity": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\wwwroot\\images\\image-placeholder.svg",
       "SourceId": "TiemGiatUi",
       "SourceType": "Discovered",
@@ -376,6 +395,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\image-placeholder.svg"
+    },
+    {
+      "Identity": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\wwwroot\\images\\logo.png",
+      "SourceId": "TiemGiatUi",
+      "SourceType": "Discovered",
+      "ContentRoot": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\wwwroot\\",
+      "BasePath": "_content/TiemGiatUi",
+      "RelativePath": "images/logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\logo.png"
     },
     {
       "Identity": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\wwwroot\\images\\magnifyingglass-20grey.svg",

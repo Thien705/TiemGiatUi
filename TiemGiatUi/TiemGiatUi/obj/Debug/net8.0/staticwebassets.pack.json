@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
+      "Id": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\wwwroot\\images\\Giatkho.jpg",
+      "PackagePath": "staticwebassets\\images\\Giatkho.jpg"
+    },
+    {
       "Id": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\wwwroot\\images\\app-icon-1.png",
       "PackagePath": "staticwebassets\\images\\app-icon-1.png"
     },
@@ -71,6 +75,10 @@
     {
       "Id": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\wwwroot\\images\\image-placeholder.svg",
       "PackagePath": "staticwebassets\\images\\image-placeholder.svg"
+    },
+    {
+      "Id": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
     },
     {
       "Id": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\wwwroot\\images\\magnifyingglass-20grey.svg",
