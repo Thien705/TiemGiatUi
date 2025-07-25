@@ -3,76 +3,76 @@
   "WorkspaceRootPath": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|h:\\tiemgiatui\\tiemgiatui\\tiemgiatui\\tiemgiatui\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|solutionrelative:tiemgiatui\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|h:\\tiemgiatui\\tiemgiatui\\tiemgiatui\\tiemgiatui\\wwwroot\\images\\memberbase-20logo-1.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|solutionrelative:tiemgiatui\\wwwroot\\images\\memberbase-20logo-1.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|h:\\tiemgiatui\\tiemgiatui\\tiemgiatui\\tiemgiatui\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|solutionrelative:tiemgiatui\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|h:\\tiemgiatui\\tiemgiatui\\tiemgiatui\\tiemgiatui\\components\\pages\\sign-up.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|solutionrelative:tiemgiatui\\components\\pages\\sign-up.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|h:\\tiemgiatui\\tiemgiatui\\tiemgiatui\\tiemgiatui\\components\\pages\\log-in.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|solutionrelative:tiemgiatui\\components\\pages\\log-in.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|h:\\tiemgiatui\\tiemgiatui\\tiemgiatui\\tiemgiatui\\components\\pages\\contact.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|solutionrelative:tiemgiatui\\components\\pages\\contact.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|h:\\tiemgiatui\\tiemgiatui\\tiemgiatui\\tiemgiatui\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|solutionrelative:tiemgiatui\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|h:\\tiemgiatui\\tiemgiatui\\tiemgiatui\\tiemgiatui\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|solutionrelative:tiemgiatui\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|h:\\tiemgiatui\\tiemgiatui\\tiemgiatui\\tiemgiatui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|solutionrelative:tiemgiatui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|h:\\tiemgiatui\\tiemgiatui\\tiemgiatui\\tiemgiatui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|solutionrelative:tiemgiatui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|h:\\tiemgiatui\\tiemgiatui\\tiemgiatui\\tiemgiatui\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|solutionrelative:tiemgiatui\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|h:\\tiemgiatui\\tiemgiatui\\tiemgiatui\\tiemgiatui\\wwwroot\\js\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|solutionrelative:tiemgiatui\\wwwroot\\js\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|h:\\tiemgiatui\\tiemgiatui\\tiemgiatui\\tiemgiatui\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|solutionrelative:tiemgiatui\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|h:\\tiemgiatui\\tiemgiatui\\tiemgiatui\\tiemgiatui\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|solutionrelative:tiemgiatui\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|h:\\tiemgiatui\\tiemgiatui\\tiemgiatui\\tiemgiatui\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|solutionrelative:tiemgiatui\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|h:\\tiemgiatui\\tiemgiatui\\tiemgiatui\\tiemgiatui\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|solutionrelative:tiemgiatui\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|h:\\tiemgiatui\\tiemgiatui\\tiemgiatui\\tiemgiatui\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|solutionrelative:tiemgiatui\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|h:\\tiemgiatui\\tiemgiatui\\tiemgiatui\\tiemgiatui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|solutionrelative:tiemgiatui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|h:\\tiemgiatui\\tiemgiatui\\tiemgiatui\\tiemgiatui\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|solutionrelative:tiemgiatui\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|h:\\tiemgiatui\\tiemgiatui\\tiemgiatui\\tiemgiatui\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|solutionrelative:tiemgiatui\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|h:\\tiemgiatui\\tiemgiatui\\tiemgiatui\\tiemgiatui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|solutionrelative:tiemgiatui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|h:\\tiemgiatui\\tiemgiatui\\tiemgiatui\\tiemgiatui\\components\\pages\\contact.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|solutionrelative:tiemgiatui\\components\\pages\\contact.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|h:\\tiemgiatui\\tiemgiatui\\tiemgiatui\\tiemgiatui\\components\\pages\\resources.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|solutionrelative:tiemgiatui\\components\\pages\\resources.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|h:\\tiemgiatui\\tiemgiatui\\tiemgiatui\\tiemgiatui\\components\\pages\\log-in.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|solutionrelative:tiemgiatui\\components\\pages\\log-in.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|h:\\tiemgiatui\\tiemgiatui\\tiemgiatui\\tiemgiatui\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|solutionrelative:tiemgiatui\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|h:\\tiemgiatui\\tiemgiatui\\tiemgiatui\\tiemgiatui\\wwwroot\\js\\webflow-script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|solutionrelative:tiemgiatui\\wwwroot\\js\\webflow-script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|h:\\tiemgiatui\\tiemgiatui\\tiemgiatui\\tiemgiatui\\wwwroot\\favicon.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|solutionrelative:tiemgiatui\\wwwroot\\favicon.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|h:\\tiemgiatui\\tiemgiatui\\tiemgiatui\\tiemgiatui\\wwwroot\\js\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|solutionrelative:tiemgiatui\\wwwroot\\js\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|h:\\tiemgiatui\\tiemgiatui\\tiemgiatui\\tiemgiatui\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|solutionrelative:tiemgiatui\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|h:\\tiemgiatui\\tiemgiatui\\tiemgiatui\\tiemgiatui\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|solutionrelative:tiemgiatui\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|h:\\tiemgiatui\\tiemgiatui\\tiemgiatui\\tiemgiatui\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D6A532E-FD97-4589-A796-FE33FE42F5F3}|TiemGiatUi\\TiemGiatUi.csproj|solutionrelative:tiemgiatui\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,63 +82,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "memberbase-20logo-1.svg",
-              "DocumentMoniker": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\wwwroot\\images\\memberbase-20logo-1.svg",
-              "RelativeDocumentMoniker": "TiemGiatUi\\wwwroot\\images\\memberbase-20logo-1.svg",
-              "ToolTip": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\wwwroot\\images\\memberbase-20logo-1.svg",
-              "RelativeToolTip": "TiemGiatUi\\wwwroot\\images\\memberbase-20logo-1.svg",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKMSURBVDhPjZNLSFRhFMd/3507M/dKPsacsYelWGZZFFJRkdSmNrUoatMiKggSN2YFEUX3MvQiiBYWtFAyggoXPSGyhQuhFrXQFr7GMFOowcZMUO9MM3pPi9Eao6gf/Bcfh3PO/5yPo8jAsqxI5vtvKKXuhMPhK4jInIBlWRH5Bw0NDYOWZUVs264B0DILKEUXCCIpZOIi7uetpHpCxN8GiffU4rrThEIhXzgcXiEidbZtH/5ZQKTV\u002B72oItjSYfG5vxwneoX2/iW80dvxb4ji9D4BIBAIeBsbG4fSOXJWzSR7qpt9D\u002BvWndpTlNXL2HCQ28PXaIuVEB2Dmsp8DiZqyN35FAFiw19IJpPcbmrq0wCq7\u002BvHd5Y\u002B2rMy5y3OcBXmqtccq9rB/uUFKI/GzfZRPhRdBhEQIRgKUlxSAoAm0uqtWNB5Yu\u002Bier5\u002BWOoWbnxAwAwQzDao3lLIobX5ePxemiImroCIzFm\u002BztT7/CPLzi8ej\u002BVxdeyu1nJjgMR3FwDl0fD4dJRHozuWACStjM/TGDlZ50tNqHuxejo\u002B\u002BZPL8wwqCvxUFPhZFfBSbIBMJti0wJjpDpJRQXfjzr6uj9u\u002BtYysCWijA4OPqzeXpVLJtE010zS9cZDM1DTa9ASLmoaOnh4cEYaySsoa30T5Mp5kPD7Ni\u002B5Rtt7qofzqO553jqQHmHExi5p8RcRNsb6y7VWtnm1ecjUdcdM7QClwhQPl8zi3o\u002BiXdREMMwvbtvv0KYfmRJSBtvlVY93O6ujLlc8WdsYcdE1RmutlV3kO20tzcXFRohBFerQ/ccE6c11EJB53xIk7EndmNSnObxIRsSwrMucWUvh2AxiGiWmYGOassjB/0yxzzPzvOWfyAyvlXYiiBFoWAAAAAElFTkSuQmCC",
-              "WhenOpened": "2025-07-23T15:45:13.166Z",
+              "DocumentIndex": 9,
+              "Title": "Resources.razor",
+              "DocumentMoniker": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\Components\\Pages\\Resources.razor",
+              "RelativeDocumentMoniker": "TiemGiatUi\\Components\\Pages\\Resources.razor",
+              "ToolTip": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\Components\\Pages\\Resources.razor",
+              "RelativeToolTip": "TiemGiatUi\\Components\\Pages\\Resources.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAO0AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-25T13:32:26.966Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 13,
+              "Title": "favicon.png",
+              "DocumentMoniker": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\wwwroot\\favicon.png",
+              "RelativeDocumentMoniker": "TiemGiatUi\\wwwroot\\favicon.png",
+              "ToolTip": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\wwwroot\\favicon.png",
+              "RelativeToolTip": "TiemGiatUi\\wwwroot\\favicon.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-07-24T15:34:04.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Sign-up.razor",
               "DocumentMoniker": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\Components\\Pages\\Sign-up.razor",
               "RelativeDocumentMoniker": "TiemGiatUi\\Components\\Pages\\Sign-up.razor",
               "ToolTip": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\Components\\Pages\\Sign-up.razor",
               "RelativeToolTip": "TiemGiatUi\\Components\\Pages\\Sign-up.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-23T15:18:15.604Z",
+              "WhenOpened": "2025-07-24T06:37:33.85Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "Log-in.razor",
               "DocumentMoniker": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\Components\\Pages\\Log-in.razor",
               "RelativeDocumentMoniker": "TiemGiatUi\\Components\\Pages\\Log-in.razor",
               "ToolTip": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\Components\\Pages\\Log-in.razor",
               "RelativeToolTip": "TiemGiatUi\\Components\\Pages\\Log-in.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAXAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-23T15:04:28.447Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-24T06:27:56.077Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Contact.razor",
               "DocumentMoniker": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\Components\\Pages\\Contact.razor",
               "RelativeDocumentMoniker": "TiemGiatUi\\Components\\Pages\\Contact.razor",
               "ToolTip": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\Components\\Pages\\Contact.razor",
               "RelativeToolTip": "TiemGiatUi\\Components\\Pages\\Contact.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAJAAAA",
+              "ViewState": "AQIAAL8AAAAAAAAAAAAAwNMAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-23T12:07:17.923Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\appsettings.json",
               "RelativeDocumentMoniker": "TiemGiatUi\\appsettings.json",
@@ -151,19 +161,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 5,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "TiemGiatUi\\Components\\Layout\\NavMenu.razor",
               "ToolTip": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\Components\\Layout\\NavMenu.razor",
               "RelativeToolTip": "TiemGiatUi\\Components\\Layout\\NavMenu.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-23T03:58:33.628Z"
+              "WhenOpened": "2025-07-23T03:58:33.628Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 3,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\appsettings.Development.json",
               "RelativeDocumentMoniker": "TiemGiatUi\\appsettings.Development.json",
@@ -171,11 +182,12 @@
               "RelativeToolTip": "TiemGiatUi\\appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-23T03:32:02.82Z"
+              "WhenOpened": "2025-07-23T03:32:02.82Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "Error.razor",
               "DocumentMoniker": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\Components\\Pages\\Error.razor",
               "RelativeDocumentMoniker": "TiemGiatUi\\Components\\Pages\\Error.razor",
@@ -188,31 +200,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Weather.razor",
-              "DocumentMoniker": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\Components\\Pages\\Weather.razor",
-              "RelativeDocumentMoniker": "TiemGiatUi\\Components\\Pages\\Weather.razor",
-              "ToolTip": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\Components\\Pages\\Weather.razor",
-              "RelativeToolTip": "TiemGiatUi\\Components\\Pages\\Weather.razor",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-23T03:26:54.965Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 1,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\Components\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "TiemGiatUi\\Components\\Layout\\MainLayout.razor",
               "ToolTip": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\Components\\Layout\\MainLayout.razor",
               "RelativeToolTip": "TiemGiatUi\\Components\\Layout\\MainLayout.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-22T15:13:25.26Z"
+              "WhenOpened": "2025-07-22T15:13:25.26Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 15,
               "Title": "_Imports.razor",
               "DocumentMoniker": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\Components\\_Imports.razor",
               "RelativeDocumentMoniker": "TiemGiatUi\\Components\\_Imports.razor",
@@ -224,20 +225,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\Program.cs",
               "RelativeDocumentMoniker": "TiemGiatUi\\Program.cs",
               "ToolTip": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\Program.cs",
               "RelativeToolTip": "TiemGiatUi\\Program.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAvwB8AAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-22T14:03:08.824Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Routes.razor",
               "DocumentMoniker": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\Components\\Routes.razor",
               "RelativeDocumentMoniker": "TiemGiatUi\\Components\\Routes.razor",
@@ -249,7 +250,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 16,
               "Title": "App.razor",
               "DocumentMoniker": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\Components\\App.razor",
               "RelativeDocumentMoniker": "TiemGiatUi\\Components\\App.razor",
@@ -257,25 +258,24 @@
               "RelativeToolTip": "TiemGiatUi\\Components\\App.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-22T07:05:11.839Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-22T07:05:11.839Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Home.razor",
               "DocumentMoniker": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "TiemGiatUi\\Components\\Pages\\Home.razor",
               "ToolTip": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\Components\\Pages\\Home.razor",
               "RelativeToolTip": "TiemGiatUi\\Components\\Pages\\Home.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAgwGIAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-22T07:05:00.656Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "app.css",
               "DocumentMoniker": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\wwwroot\\app.css",
               "RelativeDocumentMoniker": "TiemGiatUi\\wwwroot\\app.css",
@@ -283,30 +283,29 @@
               "RelativeToolTip": "TiemGiatUi\\wwwroot\\app.css",
               "ViewState": "AQIAADYAAAAAAAAAAAAAABEAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-07-22T07:04:40.591Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-22T07:04:40.591Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 12,
               "Title": "webflow-script.js",
               "DocumentMoniker": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\wwwroot\\js\\webflow-script.js",
               "RelativeDocumentMoniker": "TiemGiatUi\\wwwroot\\js\\webflow-script.js",
               "ToolTip": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\wwwroot\\js\\webflow-script.js",
               "RelativeToolTip": "TiemGiatUi\\wwwroot\\js\\webflow-script.js",
-              "ViewState": "AQIAAHJFAAAAAAAAAAAMwIBFAAAYAAAA",
+              "ViewState": "AQIAAG9FAAAAAAAAAADwv4FFAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-07-22T07:04:10.218Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "jquery.js",
               "DocumentMoniker": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\wwwroot\\js\\jquery.js",
               "RelativeDocumentMoniker": "TiemGiatUi\\wwwroot\\js\\jquery.js",
               "ToolTip": "H:\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\TiemGiatUi\\wwwroot\\js\\jquery.js",
               "RelativeToolTip": "TiemGiatUi\\wwwroot\\js\\jquery.js",
-              "ViewState": "AQIAAB8BAAAAAAAAAAAgwCYBAABNAAAA",
+              "ViewState": "AQIAAJIBAAAAAAAAAAAuwC0BAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-07-22T07:04:08.325Z"
             }
